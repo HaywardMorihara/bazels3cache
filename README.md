@@ -17,7 +17,7 @@ cache.
 
 *   When you launch Bazel, tell it where the cache is:
 
-        bazel build --remote_http_cache=http://localhost:7777 ...
+        bazel build --remote_cache=http://localhost:7777 ...
 
 ## Main features
 
